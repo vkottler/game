@@ -1,0 +1,10 @@
+.abs {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+#main {
+    width: 1920px;
+    height: 1080px;
+}
